@@ -1,0 +1,320 @@
+id,name
+1,Match Winner
+2,Home/Away
+3,Second Half Winner
+4,Asian Handicap
+5,Goals Over/Under
+6,Goals Over/Under First Half
+7,HT/FT Double
+8,Both Teams Score
+9,Handicap Result
+10,Exact Score
+11,Highest Scoring Half
+12,Double Chance
+13,First Half Winner
+14,Team To Score First
+15,Team To Score Last
+16,Total - Home
+17,Total - Away
+18,Handicap Result - First Half
+19,Asian Handicap First Half
+20,Double Chance - First Half
+21,Odd/Even
+22,Odd/Even - First Half
+23,Home Odd/Even
+24,Results/Both Teams Score
+25,Result/Total Goals
+26,Goals Over/Under - Second Half
+27,Clean Sheet - Home
+28,Clean Sheet - Away
+29,Win to Nil - Home
+30,Win to Nil - Away
+31,Correct Score - First Half
+32,Win Both Halves
+33,Double Chance - Second Half
+34,Both Teams Score - First Half
+35,Both Teams To Score - Second Half
+36,Win To Nil
+37,Home win both halves
+38,Exact Goals Number
+39,To Win Either Half
+40,Home Team Exact Goals Number
+41,Away Team Exact Goals Number
+42,Second Half Exact Goals Number
+43,Home Team Score a Goal
+44,Away Team Score a Goal
+45,Corners Over Under
+46,Exact Goals Number - First Half
+47,Winning Margin
+48,To Score In Both Halves By Teams
+49,Total Goals/Both Teams To Score
+50,Goal Line
+51,Halftime Result/Total Goals
+52,Halftime Result/Both Teams Score
+53,Away win both halves
+54,First 10 min Winner
+55,Corners 1x2
+56,Corners Asian Handicap
+57,Home Corners Over/Under
+58,Away Corners Over/Under
+59,Own Goal
+60,Away Odd/Even
+61,To Qualify
+62,Correct Score - Second Half
+63,Odd/Even - Second Half
+72,Goal Line (1st Half)
+73,Both Teams to Score 1st Half - 2nd Half
+74,10 Over/Under
+75,Last Corner
+76,First Corner
+77,Total Corners (1st Half)
+78,RTG_H1
+79,Cards European Handicap
+80,Cards Over/Under
+81,Cards Asian Handicap
+82,Home Team Total Cards
+83,Away Team Total Cards
+84,Total Corners (3 way) (1st Half)
+85,Total Corners (3 way)
+86,RCARD
+87,Total ShotOnGoal
+88,Home Total ShotOnGoal
+89,Away Total ShotOnGoal
+91,Total Goals (3 way)
+92,Anytime Goal Scorer
+93,First Goal Scorer
+94,Last Goal Scorer
+95,To Score Two or More Goals
+96,Last Goal Scorer
+97,First Goal Method
+99,To Score A Penalty
+100,To Miss A Penalty
+101,
+102,Player to be booked
+103,Player to be Sent Off
+104,Asian Handicap (2nd Half)
+105,Home Team Total Goals(1st Half)
+106,Away Team Total Goals(1st Half)
+107,Home Team Total Goals(2nd Half)
+108,Away Team Total Goals(2nd Half)
+109,Draw No Bet (1st Half)
+110,Scoring Draw
+111,Home team will score in both halves
+112,Away team will score in both halves
+113,Both Teams To Score in Both Halves
+114,Home Team Score a Goal (1st Half)
+115,Home Team Score a Goal (2nd Half)
+116,Away Team Score a Goal (1st Half)
+117,Away Team Score a Goal (2nd Half)
+118,Home Win/Over
+119,Home Win/Under
+120,Away Win/Over
+121,Away Win/Under
+122,Home team will win either half
+123,Away team will win either half
+124,Home Come From Behind and Win
+125,Corners Asian Handicap (1st Half)
+126,Corners Asian Handicap (2nd Half)
+127,Total Corners (2nd Half)
+128,Total Corners (3 way) (2nd Half)
+129,Away Come From Behind and Win
+130,Corners 1x2 (1st Half)
+131,Corners 1x2 (2nd Half)
+132,Home Total Corners (1st Half)
+133,Home Total Corners (2nd Half)
+134,Away Total Corners (1st Half)
+135,Away Total Corners (2nd Half)
+136,1x2 - 15 minutes
+137,1x2 - 60 minutes
+138,1x2 - 75 minutes
+139,1x2 - 30 minutes
+140,DC - 30 minutes
+141,DC - 15 minutes
+142,DC - 60 minutes
+143,DC - 75 minutes
+144,Goal in 1-15 minutes
+145,Goal in 16-30 minutes
+146,Goal in 31-45 minutes
+147,Goal in 46-60 minutes
+148,Goal in 61-75 minutes
+149,Goal in 76-90 minutes
+150,Home Team Yellow Cards
+151,Away Team Yellow Cards
+152,Yellow Asian Handicap
+153,Yellow Over/Under
+154,Yellow Double Chance
+155,Yellow Over/Under (1st Half)
+156,Yellow Over/Under (2nd Half)
+157,Yellow Odd/Even
+158,Yellow Cards 1x2
+159,Yellow Asian Handicap (1st Half)
+160,Yellow Asian Handicap (2nd Half)
+161,Yellow Cards 1x2 (1st Half)
+162,Yellow Cards 1x2 (2nd Half)
+163,Penalty Awarded
+164,Offsides Total
+165,Offsides 1x2
+166,Offsides Handicap
+167,Offsides Home Total
+168,Offsides Away Total
+169,Offsides Double Chance
+170,Fouls. Away Total
+171,Fouls. Home Total
+172,Fouls. Double Chance
+173,Fouls. Total
+174,Fouls. Handicap
+175,Fouls. 1x2
+176,ShotOnTarget 1x2
+177,ShotOnTarget Handicap
+178,ShotOnTarget Double Chance
+179,First Team to Score
+180,Last Team to Score
+181,European Handicap (2nd Half)
+182,Draw No Bet (2nd Half)
+183,Double Chance/Total
+184,To Score in Both Halves
+185,First Team to Score (3 way) 1st Half
+186,Total Goals Number By Ranges
+187,Total Goals By Ranges (1st Half)
+188,Clean Sheet
+189,To Advance Handicap
+190,Home Exact Goals Number (1st Half)
+191,Away Exact Goals Number (1st Half)
+192,Home Highest Scoring Half
+193,Away Highest Scoring Half
+194,Result/Total Goals (2nd Half)
+195,Either Team Wins By 1 Goals
+196,Either Team Wins By 2 Goals
+197,Over/Under 15m-30m
+198,Over/Under 30m-45m
+199,Home Win To Nill (1st Half)
+200,Home Win To Nill (2nd Half)
+201,To Score In 1st Half
+202,To Score In 2nd Half
+203,Yellow Cards. Odd/Even (1st Half)
+204,Yellow Cards. Odd/Even (2nd Half)
+205,First Team to Score (3 way) 2nd Half
+206,Home No Bet
+207,Away No Bet
+208,Corners. First Corner (3 way)
+209,Home Come From Behind and Draw
+210,Away Come From Behind and Draw
+211,Total Shots
+212,Player Assists
+213,Player Triples
+214,Player Points
+215,Player Singles
+216,Multi Touchdown Scorer (2 or More)
+217,Multi Touchdown Scorer (3 or More)
+218,Away Anytime Goal Scorer
+219,Away First Goal Scorer
+220,Shots. Away Total
+221,Shots. Home Total
+222,To Win From Behind
+223,Number of Goals In Match (Range)
+224,Game Decided After Penalties
+225,Game Decided in Extra Time
+226,Away Last Goal Scorer
+227,Goal Method Header
+228,Home Goal Method Header
+229,Goal Method Outside the Box
+230,Home Goal Method Outside the Box
+231,Home Anytime Goal Scorer
+232,Home First Goal Scorer
+233,Home Last Goal Scorer
+234,Home To Score Three or More Goals
+235,Away To Score Three or More Goals
+236,Away To Score Two or More Goals
+237,Home To Score Two or More Goals
+238,Home Team Goalscorers First
+239,Corners. European Handicap
+240,Home Player Shots
+241,Away Player Shots
+242,Player Shots On Target
+243,Home Shots On Target
+244,Away Shots On Target
+245,Away Goal Method Header
+246,Away Goal Method Outside the Box
+247,Corners Race To
+248,Time Of 1st Score
+249,Multicorners
+250,First Card Received (3 way)
+251,Player to be booked
+252,Both Teams to Receive a Card
+253,Time Of 1st Score
+254,Team Performances (Range)
+255,Home Player Assists
+256,Away Player Assists
+257,Player to Score or Assist
+258,Home Player to Score or Assist
+259,Away Player to Score or Assist
+260,Team Time Of 1st Score
+261,Total Goal Minutes (Range)
+262,Late Goal (Range)
+263,Early Goal (Range)
+264,Player Shots On Target Total
+265,Player Shots Total
+266,Player Fouls Committed
+267,Goalkeeper Saves
+268,Home Goalkeeper Saves
+269,Home Player Shots On Target Total
+270,Home Player Shots Total
+271,Home Player Fouls Committed
+272,Home Player Tackles
+273,Home Player Passes
+274,Away Goalkeeper Saves
+275,Away Player Shots On Target Total
+276,Away Player Shots Total
+277,Away Player Fouls Committed
+278,Away Player Tackles
+279,Away Player Passes
+280,First Set Piece 5 Minutes
+281,Total Tackles
+282,Double Chance/Both Teams To Score
+283,Away Win To Nill (1st Half)
+284,Away Win To Nill (2nd Half)
+285,Team To Score (Goals)
+286,Team Goalscorers First
+287,Team Goalscorers Last
+288,Home Team Goalscorers Last
+289,Away Team Goalscorers First
+290,Away Team Goalscorers Last
+291,Time of First Goal Brackets (Range)
+292,Over/Under between 0 and 10m
+293,Double Chance 0-15m
+294,Double Chance 15-30m
+295,Corners. Total (Range)
+296,Double Chance 30-45m
+297,Corners. total between 0 and 10m
+298,Method of Victory
+299,Cards over/under between 0 and 10 m
+300,Both Teams to Receive 2+ Cards
+301,Tackles. Away Total
+302,Tackles. Home Total
+303,Over/Under between 0 and 10 m
+304,Over/Under between  0 and 10 m
+305,Race to the 2nd goal?
+306,Race to the 3rd goal?
+307,Corners. Double Chance
+308,Race To
+309,Yellow Cards. Home Total (1st Half)
+310,Yellow Cards Away Total (1st Half)
+311,Which team will score the 1st goal?
+312,1x2 - 20 minutes
+313,Offsides Odd/Even
+314,Fouls Odd/Even
+315,Saves Total
+316,Saves 1x2
+317,Saves Asian H
+318,Saves O/U Home
+319,Saves O/U Away
+320,Saves Double Chance
+321,Penalty Awarded (1st Half)
+322,Penalty Awarded (2nd Half)
+323,Saves Odd/Even
+324,Corner in 1-15 minutes
+325,Corner in 16-30 minutes
+326,Corner in 31-45 minutes
+327,Corner in 45-60 minutes
+328,Corner in 60-75 minutes
+329,Corner in 75-90 minutes
